@@ -76,34 +76,6 @@ To contribute:
 
 📄 See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
 
----
-
-## 🧩 Modeling Approaches
-
-This repository is **approach-agnostic**.
-
-You are free to use:
-
-* UML / SysML
-* QuanUML
-* Formal methods
-* Custom abstractions
-* Any other structured representation
-
-The goal is **exploration, not standardization**.
-
----
-
-## 📚 Documentation
-
-Additional resources can be found in the `/docs` folder:
-
-* Modeling guidelines
-* Comparisons between approaches
-* Recommended tools
-
----
-
 ## ⭐ Why This Matters
 
 As quantum software grows more complex, **modeling and design will become essential**.
