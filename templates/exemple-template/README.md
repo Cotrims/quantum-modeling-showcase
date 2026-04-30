@@ -8,9 +8,9 @@
 
 Describe the quantum problem being addressed:
 
-* What is the system or scenario?
-* What are the key concepts involved?
-* Why is this problem relevant?
+- What is the system or scenario?
+- What are the key concepts involved?
+- Why is this problem relevant?
 
 ---
 
@@ -18,9 +18,9 @@ Describe the quantum problem being addressed:
 
 Provide details about the implementation:
 
-* Libraries/frameworks used (e.g., Qiskit, QuTiP)
-* Programming language
-* How to run the code:
+- Libraries/frameworks used (e.g., Qiskit, QuTiP)
+- Programming language
+- How to run the code:
 
 ```bash
 # example
@@ -34,9 +34,9 @@ python main.py
 
 Explain how the system was modeled:
 
-* What approach was used? (UML, QuanUML, custom, etc.)
-* What are the main abstractions?
-* Why was this approach chosen?
+- What approach was used? (UML, QuanUML, custom, etc.)
+- What are the main abstractions?
+- Why was this approach chosen?
 
 ---
 
@@ -46,13 +46,13 @@ Include your diagrams in the `/diagrams` folder and reference them here.
 
 Example:
 
-![System Diagram](./diagrams/system-diagram.png)
+![System Diagram](./diagrams/class-diagram.png)
 
 Explain:
 
-* What each component represents
-* Key interactions
-* Important modeling decisions
+- What each component represents
+- Key interactions
+- Important modeling decisions
 
 ---
 
@@ -60,10 +60,10 @@ Explain:
 
 Discuss what you learned:
 
-* Trade-offs of your modeling approach
-* Limitations
-* What worked well / what didn’t
-* Possible improvements
+- Trade-offs of your modeling approach
+- Limitations
+- What worked well / what didn’t
+- Possible improvements
 
 ---
 
@@ -71,10 +71,10 @@ Discuss what you learned:
 
 List relevant materials:
 
-* Papers
-* Articles
-* Documentation
-* Books
+- Papers
+- Articles
+- Documentation
+- Books
 
 ---
 
